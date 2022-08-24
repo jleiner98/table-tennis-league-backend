@@ -1,3 +1,5 @@
+SET INITIAL SCHEMA testdb;
+
 INSERT INTO Player VALUES (1, 'James', 'Carter');
 INSERT INTO Player VALUES (2, 'Helen', 'Leary');
 INSERT INTO Player VALUES (3, 'Linda', 'Douglas');
